@@ -14,8 +14,8 @@ Describe the following movie using emojis.
 """
 
 examples = [
-    {"input": "Titanic", "output": "🛳️🌊❤️" },
-    {"input": "The Matrix", "output": "🕶️💊💥👾🔁🔓💪" }
+    {"input": "Titanic", "output": "🛳️🌊❤️🧊🎶🔥🚢💔👫💑" },
+    {"input": "The Matrix", "output": "🕶️💊💥👾🔮🌃👨‍💻🔁🔓💪" }
 ]
 
 movie = 'Toy story'

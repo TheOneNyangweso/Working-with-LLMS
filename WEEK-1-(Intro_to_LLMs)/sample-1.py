@@ -5,7 +5,7 @@ config = dotenv_values('/home/nyangweso/Desktop/Ds_1/Working-with-LLMS/.env')
 
 openai.api_key = config['OPENAI_API_KEY']
 
-english_text = "Hi, I'm Sam. Nice to meet you"
+english_text = "Hi, I'm Peter. Nice to meet you. I'm a developer"
 
 response = openai.ChatCompletion.create(
     model="gpt-3.5-turbo",
