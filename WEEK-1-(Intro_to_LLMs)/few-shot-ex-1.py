@@ -18,7 +18,7 @@ examples = [
     {"input": "The Matrix", "output": "🕶️💊💥👾🔮🌃👨‍💻🔁🔓💪" }
 ]
 
-movie = 'Toy story'
+movie = 'Toy story'co
 
 response = openai.ChatCompletion.create(
     model='gpt-3.5-turbo',
